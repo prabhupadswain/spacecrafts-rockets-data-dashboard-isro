@@ -4,7 +4,7 @@ React project that uses the public [ISRO api](https://isro.vercel.app/) availabl
 
 ## GitHub Repository for the ISRO API
 
-The github repository for the free public api is [ISRO API](https://github.com/isro/api).
+The [isro-api](https://github.com/isro/api) github repository for the public api is provided here.
 
 # Getting Started with Create React App
 
