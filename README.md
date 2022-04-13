@@ -1,4 +1,4 @@
-# Launched Spacecrafts & Rockets data of ISRO
+# Launched spacecrafts & rockets data of ISRO
 
 React project that uses the public [ISRO api](https://isro.vercel.app/) available at GitHub (link provided below) to show launched spacecrafts & rockets data of ISRO with some functionality included.
 
