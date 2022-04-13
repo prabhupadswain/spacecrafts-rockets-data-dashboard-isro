@@ -1,10 +1,23 @@
+# Launched Spacecrafts & Rockets data of ISRO
+
+React project that uses the public [ISRO api](https://isro.vercel.app/) available at GitHub (link provided below) to show launched spacecrafts & rockets data of ISRO with some functionality included.
+
+## GitHub Repository for the ISRO API
+
+The github repository for the free public api is [ISRO API](https://github.com/isro/api).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Later, some files & folders were removed from initial bootstrapped projects in the first commit.
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Installs the dependencies this projects uses.
 
 ### `npm start`
 
@@ -68,3 +81,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Breaking Bad Cast
+
+React project that uses the [breaking bad api](https://breakingbadapi.com/documentation) to show and filter characters from the show
